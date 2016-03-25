@@ -4,7 +4,7 @@
 
   <groupId>core</groupId>
   <artifactId>HW_38_JUnit</artifactId>
-  <version>1.1</version>
+  <version>1.2</version>
   <packaging>jar</packaging>
 
   <name>HW_38_JUnit</name>
